@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/xelpmoc_mac3/.android/build-cache/ee500de53f0e80cd018451f57a7ccd7720b710fa/output/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/xelpmoc_mac3/.android/build-cache/ee500de53f0e80cd018451f57a7ccd7720b710fa/output/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/xelpmoc_mac3/.android/build-cache/ee500de53f0e80cd018451f57a7ccd7720b710fa/output/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    }
+]

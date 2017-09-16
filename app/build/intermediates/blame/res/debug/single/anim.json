@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/xelpmoc_mac3/.android/build-cache/4a6551a627272d8b1487f80c635f1d6fefe03250/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/xelpmoc_mac3/.android/build-cache/4a6551a627272d8b1487f80c635f1d6fefe03250/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/xelpmoc_mac3/.android/build-cache/4a6551a627272d8b1487f80c635f1d6fefe03250/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/xelpmoc_mac3/.android/build-cache/4a6551a627272d8b1487f80c635f1d6fefe03250/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/xelpmoc_mac3/.android/build-cache/019349c437dce4100f0e7f11ed3969d6e757bf37/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/Users/xelpmoc_mac3/.android/build-cache/019349c437dce4100f0e7f11ed3969d6e757bf37/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/xelpmoc_mac3/.android/build-cache/019349c437dce4100f0e7f11ed3969d6e757bf37/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/xelpmoc_mac3/.android/build-cache/019349c437dce4100f0e7f11ed3969d6e757bf37/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/xelpmoc_mac3/.android/build-cache/4a6551a627272d8b1487f80c635f1d6fefe03250/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/xelpmoc_mac3/.android/build-cache/4a6551a627272d8b1487f80c635f1d6fefe03250/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/xelpmoc_mac3/.android/build-cache/019349c437dce4100f0e7f11ed3969d6e757bf37/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/xelpmoc_mac3/.android/build-cache/4a6551a627272d8b1487f80c635f1d6fefe03250/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/xelpmoc_mac3/.android/build-cache/4a6551a627272d8b1487f80c635f1d6fefe03250/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/xelpmoc_mac3/.android/build-cache/4a6551a627272d8b1487f80c635f1d6fefe03250/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/Users/xelpmoc_mac3/.android/build-cache/019349c437dce4100f0e7f11ed3969d6e757bf37/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/xelpmoc_mac3/.android/build-cache/4a6551a627272d8b1487f80c635f1d6fefe03250/output/res/anim/abc_fade_in.xml"
+    }
+]

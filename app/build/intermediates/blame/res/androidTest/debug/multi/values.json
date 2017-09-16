@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/Users/xelpmoc_mac3/.android/build-cache/e131476d8e17a53dfe4c83f25901778ffd053476/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]

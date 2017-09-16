@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/xelpmoc_mac3/.android/build-cache/4a6551a627272d8b1487f80c635f1d6fefe03250/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/xelpmoc_mac3/.android/build-cache/4a6551a627272d8b1487f80c635f1d6fefe03250/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/xelpmoc_mac3/.android/build-cache/4a6551a627272d8b1487f80c635f1d6fefe03250/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/xelpmoc_mac3/.android/build-cache/4a6551a627272d8b1487f80c635f1d6fefe03250/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/Users/xelpmoc_mac3/.android/build-cache/7b1f23a9491ad7e2f679dca1d33cc84567d77984/output/res/layout-v21/place_autocomplete_fragment.xml"
+    }
+]

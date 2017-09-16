@@ -1,0 +1,290 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/src/main/AndroidManifest.xml:3:5-49
+		INJECTED from /Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/src/main/AndroidManifest.xml:4:5-83
+MERGED from [com.google.android.gms:play-services-maps:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/82dde95e2cd7b0d69b54d3fe6df106b06f3b4c65/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/4d8d95b0533e2dc5f73f084ac0c63746c182f7e0/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/9c5e020b4cf740ae045fff5083ebffbfeae43203/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/d7bc6ef42ddb8394eea290a1939e90d19a994c4e/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/src/main/AndroidManifest.xml:6:5-21:19
+MERGED from [com.android.support:design:25.2.0] /Users/xelpmoc_mac3/.android/build-cache/019349c437dce4100f0e7f11ed3969d6e757bf37/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:transition:25.2.0] /Users/xelpmoc_mac3/.android/build-cache/2818a2d23214b2e8e271dde1c88b6160f0f0fb60/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/xelpmoc_mac3/.android/build-cache/4a6551a627272d8b1487f80c635f1d6fefe03250/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/xelpmoc_mac3/.android/build-cache/258f07bdd7a7788dc43d18466928565bb93f9349/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/xelpmoc_mac3/.android/build-cache/ad5c997afa31d6f5ec7d0ade901da7ef6bc00410/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/xelpmoc_mac3/.android/build-cache/5198d92dd7ef59c8f443cae2fb3e0bc312446433/output/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-places:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/7b1f23a9491ad7e2f679dca1d33cc84567d77984/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/82dde95e2cd7b0d69b54d3fe6df106b06f3b4c65/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-auth:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/ee500de53f0e80cd018451f57a7ccd7720b710fa/output/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.firebase:firebase-core:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/d124d767d8395b900508422f2065c92640ad1137/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/4d8d95b0533e2dc5f73f084ac0c63746c182f7e0/output/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/9c5e020b4cf740ae045fff5083ebffbfeae43203/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/d7bc6ef42ddb8394eea290a1939e90d19a994c4e/output/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-auth:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/cfbafb0a61dfdce51682c810cb7890589b19c0ae/output/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/c01a1a30b358c02bb044d8b7332b45b4595cea35/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-common:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/f852e8435fae9b1941284054afd668d8345a3d01/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/bbc222354cd723b3f848e89ff3777f0808baef21/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/d40fa1b1d285454d0b5e5a98bca456e764a5241f/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/xelpmoc_mac3/.android/build-cache/9aea578ce50206413378972fb8caf129c9fe9226/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/xelpmoc_mac3/.android/build-cache/9ef940e85f26ca1f200a883f0583d1e17df36211/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/xelpmoc_mac3/.android/build-cache/9bf0f466854dcf717a5b313c88f6d9234e97ddf1/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/xelpmoc_mac3/.android/build-cache/5b6e1af1a07645fea5ca8f01492ba550184cc94b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/xelpmoc_mac3/.android/build-cache/3fc032c96c802e733d9b3555d75ea902890d4a73/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/xelpmoc_mac3/.android/build-cache/b16c51b9e398ca8823406a1a63936ae42d81602b/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/src/main/AndroidManifest.xml:9:9-41
+	android:supportsRtl
+		ADDED from /Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/src/main/AndroidManifest.xml:11:9-35
+	android:roundIcon
+		ADDED from /Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/src/main/AndroidManifest.xml:10:9-54
+	android:allowBackup
+		ADDED from /Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/src/main/AndroidManifest.xml:7:9-35
+	android:icon
+		ADDED from /Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/src/main/AndroidManifest.xml:8:9-43
+	android:theme
+		ADDED from /Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/src/main/AndroidManifest.xml:12:9-40
+activity#reimburse.xelpmoc.com.firebasedemo.MainActivity
+ADDED from /Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/src/main/AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from /Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/src/main/AndroidManifest.xml:13:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/src/main/AndroidManifest.xml:17:27-74
+activity#reimburse.xelpmoc.com.firebasedemo.FirebaseExample
+ADDED from /Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/src/main/AndroidManifest.xml:20:9-62
+	android:name
+		ADDED from /Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/src/main/AndroidManifest.xml:20:19-50
+uses-sdk
+INJECTED from /Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.2.0] /Users/xelpmoc_mac3/.android/build-cache/019349c437dce4100f0e7f11ed3969d6e757bf37/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /Users/xelpmoc_mac3/.android/build-cache/c0598f4d4a4e59356cb391241bab47735ed7e1ba/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.2.0] /Users/xelpmoc_mac3/.android/build-cache/2818a2d23214b2e8e271dde1c88b6160f0f0fb60/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/xelpmoc_mac3/.android/build-cache/4a6551a627272d8b1487f80c635f1d6fefe03250/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/xelpmoc_mac3/.android/build-cache/258f07bdd7a7788dc43d18466928565bb93f9349/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/xelpmoc_mac3/.android/build-cache/ad5c997afa31d6f5ec7d0ade901da7ef6bc00410/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/xelpmoc_mac3/.android/build-cache/5198d92dd7ef59c8f443cae2fb3e0bc312446433/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-places:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/7b1f23a9491ad7e2f679dca1d33cc84567d77984/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/82dde95e2cd7b0d69b54d3fe6df106b06f3b4c65/output/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-auth:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/ee500de53f0e80cd018451f57a7ccd7720b710fa/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/46d1c07e6b68cb0a27bccdfc810d71aeb5474bba/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/d124d767d8395b900508422f2065c92640ad1137/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/4d8d95b0533e2dc5f73f084ac0c63746c182f7e0/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/9c5e020b4cf740ae045fff5083ebffbfeae43203/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/d7bc6ef42ddb8394eea290a1939e90d19a994c4e/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-auth:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/cfbafb0a61dfdce51682c810cb7890589b19c0ae/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/c01a1a30b358c02bb044d8b7332b45b4595cea35/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/5682e8aaf5dbb8700ced1e99c68ac35570a0c99a/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/2ab3b7b59d33d069b92646311cf038058659f1ab/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/0dc7c5a8756a5c53d843a1da09ab855376d4b245/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/2882dc86a9e726f7f60e609274b05552738ba6a4/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/f852e8435fae9b1941284054afd668d8345a3d01/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/bbc222354cd723b3f848e89ff3777f0808baef21/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/d40fa1b1d285454d0b5e5a98bca456e764a5241f/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/xelpmoc_mac3/.android/build-cache/9aea578ce50206413378972fb8caf129c9fe9226/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/xelpmoc_mac3/.android/build-cache/9ef940e85f26ca1f200a883f0583d1e17df36211/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/xelpmoc_mac3/.android/build-cache/9bf0f466854dcf717a5b313c88f6d9234e97ddf1/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/xelpmoc_mac3/.android/build-cache/5b6e1af1a07645fea5ca8f01492ba550184cc94b/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/xelpmoc_mac3/.android/build-cache/3fc032c96c802e733d9b3555d75ea902890d4a73/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/xelpmoc_mac3/.android/build-cache/b16c51b9e398ca8823406a1a63936ae42d81602b/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.2.0] /Users/xelpmoc_mac3/.android/build-cache/019349c437dce4100f0e7f11ed3969d6e757bf37/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/xelpmoc_mac3/.android/build-cache/4a6551a627272d8b1487f80c635f1d6fefe03250/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/xelpmoc_mac3/.android/build-cache/258f07bdd7a7788dc43d18466928565bb93f9349/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/xelpmoc_mac3/.android/build-cache/ad5c997afa31d6f5ec7d0ade901da7ef6bc00410/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/xelpmoc_mac3/.android/build-cache/9aea578ce50206413378972fb8caf129c9fe9226/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/xelpmoc_mac3/.android/build-cache/9ef940e85f26ca1f200a883f0583d1e17df36211/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/xelpmoc_mac3/.android/build-cache/9bf0f466854dcf717a5b313c88f6d9234e97ddf1/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/xelpmoc_mac3/.android/build-cache/5b6e1af1a07645fea5ca8f01492ba550184cc94b/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/xelpmoc_mac3/.android/build-cache/3fc032c96c802e733d9b3555d75ea902890d4a73/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/xelpmoc_mac3/.android/build-cache/b16c51b9e398ca8823406a1a63936ae42d81602b/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/xelpmoc_mac3/.android/build-cache/4a6551a627272d8b1487f80c635f1d6fefe03250/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/xelpmoc_mac3/.android/build-cache/4a6551a627272d8b1487f80c635f1d6fefe03250/output/AndroidManifest.xml:26:9-47
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/82dde95e2cd7b0d69b54d3fe6df106b06f3b4c65/output/AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/4d8d95b0533e2dc5f73f084ac0c63746c182f7e0/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/9c5e020b4cf740ae045fff5083ebffbfeae43203/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/d7bc6ef42ddb8394eea290a1939e90d19a994c4e/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/82dde95e2cd7b0d69b54d3fe6df106b06f3b4c65/output/AndroidManifest.xml:19:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/82dde95e2cd7b0d69b54d3fe6df106b06f3b4c65/output/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/82dde95e2cd7b0d69b54d3fe6df106b06f3b4c65/output/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/82dde95e2cd7b0d69b54d3fe6df106b06f3b4c65/output/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/ee500de53f0e80cd018451f57a7ccd7720b710fa/output/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/ee500de53f0e80cd018451f57a7ccd7720b710fa/output/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/ee500de53f0e80cd018451f57a7ccd7720b710fa/output/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/ee500de53f0e80cd018451f57a7ccd7720b710fa/output/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/ee500de53f0e80cd018451f57a7ccd7720b710fa/output/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/ee500de53f0e80cd018451f57a7ccd7720b710fa/output/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/ee500de53f0e80cd018451f57a7ccd7720b710fa/output/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/ee500de53f0e80cd018451f57a7ccd7720b710fa/output/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/ee500de53f0e80cd018451f57a7ccd7720b710fa/output/AndroidManifest.xml:24:18-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/4d8d95b0533e2dc5f73f084ac0c63746c182f7e0/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/9c5e020b4cf740ae045fff5083ebffbfeae43203/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/d7bc6ef42ddb8394eea290a1939e90d19a994c4e/output/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/4d8d95b0533e2dc5f73f084ac0c63746c182f7e0/output/AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/4d8d95b0533e2dc5f73f084ac0c63746c182f7e0/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/9c5e020b4cf740ae045fff5083ebffbfeae43203/output/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/4d8d95b0533e2dc5f73f084ac0c63746c182f7e0/output/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/4d8d95b0533e2dc5f73f084ac0c63746c182f7e0/output/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/4d8d95b0533e2dc5f73f084ac0c63746c182f7e0/output/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/4d8d95b0533e2dc5f73f084ac0c63746c182f7e0/output/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/4d8d95b0533e2dc5f73f084ac0c63746c182f7e0/output/AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/4d8d95b0533e2dc5f73f084ac0c63746c182f7e0/output/AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/4d8d95b0533e2dc5f73f084ac0c63746c182f7e0/output/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/4d8d95b0533e2dc5f73f084ac0c63746c182f7e0/output/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/4d8d95b0533e2dc5f73f084ac0c63746c182f7e0/output/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/4d8d95b0533e2dc5f73f084ac0c63746c182f7e0/output/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/4d8d95b0533e2dc5f73f084ac0c63746c182f7e0/output/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/4d8d95b0533e2dc5f73f084ac0c63746c182f7e0/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/9c5e020b4cf740ae045fff5083ebffbfeae43203/output/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/4d8d95b0533e2dc5f73f084ac0c63746c182f7e0/output/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/4d8d95b0533e2dc5f73f084ac0c63746c182f7e0/output/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/4d8d95b0533e2dc5f73f084ac0c63746c182f7e0/output/AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/4d8d95b0533e2dc5f73f084ac0c63746c182f7e0/output/AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/4d8d95b0533e2dc5f73f084ac0c63746c182f7e0/output/AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/4d8d95b0533e2dc5f73f084ac0c63746c182f7e0/output/AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/4d8d95b0533e2dc5f73f084ac0c63746c182f7e0/output/AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/4d8d95b0533e2dc5f73f084ac0c63746c182f7e0/output/AndroidManifest.xml:33:16-90
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/d7bc6ef42ddb8394eea290a1939e90d19a994c4e/output/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/d7bc6ef42ddb8394eea290a1939e90d19a994c4e/output/AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/d7bc6ef42ddb8394eea290a1939e90d19a994c4e/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/d7bc6ef42ddb8394eea290a1939e90d19a994c4e/output/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/d7bc6ef42ddb8394eea290a1939e90d19a994c4e/output/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/d7bc6ef42ddb8394eea290a1939e90d19a994c4e/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/d7bc6ef42ddb8394eea290a1939e90d19a994c4e/output/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/d7bc6ef42ddb8394eea290a1939e90d19a994c4e/output/AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/d7bc6ef42ddb8394eea290a1939e90d19a994c4e/output/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/d7bc6ef42ddb8394eea290a1939e90d19a994c4e/output/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/d7bc6ef42ddb8394eea290a1939e90d19a994c4e/output/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/d7bc6ef42ddb8394eea290a1939e90d19a994c4e/output/AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/d7bc6ef42ddb8394eea290a1939e90d19a994c4e/output/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/d7bc6ef42ddb8394eea290a1939e90d19a994c4e/output/AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/d7bc6ef42ddb8394eea290a1939e90d19a994c4e/output/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/d7bc6ef42ddb8394eea290a1939e90d19a994c4e/output/AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/d7bc6ef42ddb8394eea290a1939e90d19a994c4e/output/AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/d7bc6ef42ddb8394eea290a1939e90d19a994c4e/output/AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/d7bc6ef42ddb8394eea290a1939e90d19a994c4e/output/AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/d7bc6ef42ddb8394eea290a1939e90d19a994c4e/output/AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/d7bc6ef42ddb8394eea290a1939e90d19a994c4e/output/AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/d7bc6ef42ddb8394eea290a1939e90d19a994c4e/output/AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/d7bc6ef42ddb8394eea290a1939e90d19a994c4e/output/AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/d7bc6ef42ddb8394eea290a1939e90d19a994c4e/output/AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/d7bc6ef42ddb8394eea290a1939e90d19a994c4e/output/AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/d7bc6ef42ddb8394eea290a1939e90d19a994c4e/output/AndroidManifest.xml:45:25-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/c01a1a30b358c02bb044d8b7332b45b4595cea35/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/c01a1a30b358c02bb044d8b7332b45b4595cea35/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/c01a1a30b358c02bb044d8b7332b45b4595cea35/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/c01a1a30b358c02bb044d8b7332b45b4595cea35/output/AndroidManifest.xml:19:19-85
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/f852e8435fae9b1941284054afd668d8345a3d01/output/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/f852e8435fae9b1941284054afd668d8345a3d01/output/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/f852e8435fae9b1941284054afd668d8345a3d01/output/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/f852e8435fae9b1941284054afd668d8345a3d01/output/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/f852e8435fae9b1941284054afd668d8345a3d01/output/AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/d40fa1b1d285454d0b5e5a98bca456e764a5241f/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/d40fa1b1d285454d0b5e5a98bca456e764a5241f/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.0] /Users/xelpmoc_mac3/.android/build-cache/d40fa1b1d285454d0b5e5a98bca456e764a5241f/output/AndroidManifest.xml:20:20-65

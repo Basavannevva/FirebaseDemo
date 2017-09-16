@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/Users/xelpmoc_mac3/Desktop/Git_NewProjects/FirebaseDemo/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    }
+]
