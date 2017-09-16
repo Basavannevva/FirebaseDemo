@@ -18,7 +18,7 @@ import java.util.Map;
 import static android.R.attr.checked;
 
 /**
- * Created by Irshad on 15/06/17.
+ * Created by Basavannevva on 15/06/17.
  */
 
 public class ListAdapter extends RecyclerView.Adapter<ListAdapter.MyViewHolder> {
