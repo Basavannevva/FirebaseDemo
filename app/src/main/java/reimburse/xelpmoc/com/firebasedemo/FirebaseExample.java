@@ -50,7 +50,7 @@ import butterknife.ButterKnife;
 import butterknife.OnClick;
 
 /**
- * Created by Rizvan Hawaldar on 13/09/17.
+ * Created by Basavannevva on 13/09/17.
  */
 
 public class FirebaseExample extends Activity implements  ListAdapter.firbaseUpadte{
